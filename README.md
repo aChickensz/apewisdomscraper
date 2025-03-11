@@ -19,7 +19,7 @@ A real-time stock sentiment tracker that monitors social media mentions and disp
 
 4. **Run the Application**
    ```bash
-   python testing.py
+   python apewisdomscraper.py
    ```
 
 ## Features
